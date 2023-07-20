@@ -4,8 +4,8 @@
 #
 #    pip-compile requirements/requirements.in
 #
-aiohttp==3.8.1
-    # via -r requirements/requirements.in
+aiohttp==3.8.5
+    # via -r requirements.in
 aiosignal==1.2.0
     # via aiohttp
 async-timeout==4.0.2
